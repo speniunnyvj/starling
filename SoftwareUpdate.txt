@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+fix for predicting with batch_size > 1 (#47)
