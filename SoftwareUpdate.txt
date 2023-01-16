@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+ultralytics 8.0.229 add model.embed() method (#7098)
