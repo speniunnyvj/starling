@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Fixed RTDETR GFLOPs bug (#7309)
