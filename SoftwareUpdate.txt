@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
