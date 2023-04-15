@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Update format.yml to pull_request_target (#7460)
