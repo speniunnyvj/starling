@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+YOLOv8 INT8 TFLite Inference Example (#7317)
