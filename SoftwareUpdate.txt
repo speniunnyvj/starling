@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Add Neural Magic Docs integrations page (#7234)
