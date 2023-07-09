@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
