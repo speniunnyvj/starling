@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Faster batch same_shapes (#8851)
