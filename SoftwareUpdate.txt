@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Avoid creating -hub dir without processing images (#8334)
