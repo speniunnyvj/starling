@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+fix val each epoch
