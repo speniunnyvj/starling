@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
