@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+Update neural-magic.md (#7347)
