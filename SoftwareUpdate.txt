@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+fix yolo classify model loading error (#9196)
