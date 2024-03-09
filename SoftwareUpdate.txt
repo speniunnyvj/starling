@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+YOLOv8 INT8 TFLite Inference Example (#7317)
