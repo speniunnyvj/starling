@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Fix bbox2segment converter (#7814)
