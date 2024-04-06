@@ -1,1 +1,1 @@
-ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
