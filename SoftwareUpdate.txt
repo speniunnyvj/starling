@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Update Docs robots.txt (#7728)
