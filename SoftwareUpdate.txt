@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Faster batch same_shapes (#8851)
