@@ -1,1 +1,1 @@
-Add TF GraphDef Docs Integrations Page (#9203)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
