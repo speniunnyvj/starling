@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
