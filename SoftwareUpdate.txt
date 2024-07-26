@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Docs partial mdformat improvements (#7378)
