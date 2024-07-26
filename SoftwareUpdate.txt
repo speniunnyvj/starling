@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Update Docs Home and Neural Magic pages (#7243)
