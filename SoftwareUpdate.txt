@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
