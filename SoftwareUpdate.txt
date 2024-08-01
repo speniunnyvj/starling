@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Elaborate Train and Predict mode docs arguments (#8137)
